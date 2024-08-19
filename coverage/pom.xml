@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>com.br.walletwise</groupId>
-        <artifactId>walletwise-api</artifactId>
+        <artifactId>walletwise-clean-rest-api</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
